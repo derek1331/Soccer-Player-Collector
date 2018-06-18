@@ -1,0 +1,80 @@
+#header {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #F6B40E;
+    width: 100%;
+    height: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    line-height: 60px;
+    font-size: 3em;
+    font-weight: 900;
+    
+}
+
+#instructions {
+    margin:auto; 
+    color: white;
+    background-color: #74ACDF;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    width: 80%;
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+
+.play {
+    margin:auto; 
+    color: white;
+    background-color: #74ACDF;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    width: 80%;
+    font-size: 1.3em;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+
+#players {
+    margin: auto;
+    display: flex;
+    flex-basis: auto;
+    justify-content: space-evenly;
+    color: white;
+    background-color: #74ACDF;
+    padding: 20px 10px 20px 10px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+#players img {
+    height: 150px;
+    width: auto;
+    border-radius: 30px;
+    border: #F6B40E inset;
+    border-radius: 200px;
+
+    
+}
+
+.opacity {-webkit-filter: opacity(90%);
+    filter: opacity(90%);
+}
+
+
+
+.wins {
+    margin:auto; 
+    color: white;
+    background-color: #74ACDF;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+    width: 80%;
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+
